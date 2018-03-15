@@ -65,7 +65,10 @@
               "active": true,
               "class": "mbr-figure__img img-responsive center-block",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/12.png"
+              "src": "@PROJECT_PATH@/assets/images/iphone-mockup-2-1400x933.png",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
@@ -76,7 +79,7 @@
             }
           },
           "title1": "bodyplan",
-          "text": "Lorem ipsum dolor sit amet elit convallis neque convallis est non turpis nisl ac justo rutrum sollic itudin urna.<br>\n<br>Lorem ipsum dolor sit amet elit convallis neque convallis est non turpis nisl ac justo rutrum sollic itudin urna interdum.Lorem ipsum dolor sit amet elit convallis neque convallis est non turpis nisl ac justo rutrum sollic itudin urna interdum.\n<br>\n<br>¡Lorem ipsum dolor sit amet elit convallis neque convallis!",
+          "text": "¡Sácale más partido a tu plan de entrenamiento!\n<br>\n<br>BODYPLAN es una app donde podrás enseñar tu plan a tus seguidores y ganar dinero con ello. Sube tus propios vídeos de los ejercicios que han de hacer y marca objetivos.\n<br>\n<br>Deja tu email para estar más informado de los nuevos avances.<br>",
           "text1": "",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-primary btn-block\">SUBSCRIBE</a>",
           "form": {
@@ -119,13 +122,13 @@
             "overlayOpacity": 0.5,
             "showIcons": true,
             "iconsColor": "@primaryColor",
-            "icon1": "fa-mobile",
-            "icon2": "fa-trophy",
-            "icon3": "fa-check-circle"
+            "icon1": "fa-hand-peace-o",
+            "icon2": "fa-users",
+            "icon3": "fa-eur"
           },
           "title1": "Ponte en forma",
           "title2": "Personal Trainer",
-          "title3": "Dietas",
+          "title3": "gana dinero",
           "title4": "Flashy Look",
           "text1": "Lorem ipsum dolor sit amet elit convallis neque convallis est non turpis nisl ac justo rutrum sollic itudin urna interdum.",
           "text2": "Lorem ipsum dolor sit amet elit convallis neque convallis est non turpis nisl ac justo rutrum sollic itudin urna interdum.",
@@ -136,7 +139,12 @@
             "Theme"
           ],
           "_name": "features4",
-          "_anchor": "features4-o"
+          "_anchor": "features4-o",
+          "_styles": {
+            "H4": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_params": {
