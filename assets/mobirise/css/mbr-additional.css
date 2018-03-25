@@ -3,8 +3,8 @@
 
 
 .btn.btn-primary {
-  background-color: #29d9c2;
-  border-color: #29d9c2;
+  background-color: #213397;
+  border-color: #213397;
 }
 .btn.btn-primary:hover,
 .btn.btn-primary:focus,
@@ -63,7 +63,7 @@
   border-color: #f63709;
 }
 .text-primary {
-  color: #29d9c2 !important;
+  color: #213397 !important;
 }
 .text-info {
   color: #27aae0 !important;
@@ -78,14 +78,14 @@
   color: #f97352 !important;
 }
 a {
-  color: #29d9c2;
+  color: #213397;
 }
 a:hover,
 a:focus,
 a.focus,
 a:active,
 a.active {
-  color: #1b9a8a;
+  color: #131e58;
 }
 .mbr-primary-color,
 .s2-box:hover .s2-box-ico div,
@@ -93,7 +93,7 @@ a.active {
 .extFooter1 ul li:before,
 .mbr-gallery-filter li:hover,
 .extFooter1 ul li a:hover {
-  color: #29d9c2 !important;
+  color: #213397 !important;
 }
 .navbar-nav > li > a:hover,
 .dropdown1-menu > li > a:hover,
@@ -105,38 +105,38 @@ a.active {
 .dropdown-menu a:hover,
 .nav-tabs > li.active > a,
 .content8 .nav-tabs > li.active > a {
-  color: #29d9c2 !important;
+  color: #213397 !important;
 }
 .cta-wrap.bg-dark .cta-btn.btn-default:hover,
 .cta-wrap .cta-btn.btn-default:hover,
 .mbr-primary-bgColor,
 .nav-tabs > li > a::after,
 .services-s5 .service-content:hover i {
-  background: #29d9c2 !important;
+  background: #213397 !important;
 }
 blockquote {
-  border-left-color: #29d9c2;
+  border-left-color: #213397;
 }
 .process-step2 .btn-circle:hover,
 .process-step2 .btn-info,
 .mbr-slider .carousel-control:hover {
-  background: #29d9c2 !important;
-  border-color: #29d9c2 !important;
+  background: #213397 !important;
+  border-color: #213397 !important;
 }
 .services-s5 .service-content:hover i:after,
 .cta-wrap.bg-dark .cta-btn:hover,
 .cta-wrap.bg-primary .cta-btn:hover,
 .nav-link.btn.btn-primary:hover {
-  border-color: #29d9c2;
+  border-color: #213397;
 }
 .mbr-gallery-filter li.active {
-  color: #29d9c2;
-  border-color: #29d9c2;
+  color: #213397;
+  border-color: #213397;
 }
 .cta-wrap .cta-btn.btn-default:hover,
 .cta-wrap.bg-dark .cta-btn.btn-default:hover {
-  background: #29d9c2;
-  border-color: #29d9c2;
+  background: #213397;
+  border-color: #213397;
 }
 .mbr-title-font,
 .mbr-gallery-filter li {
@@ -146,6 +146,6 @@ blockquote {
 p {
   font-family: 'Raleway', sans-serif !important;
 }
-#features4-o H4 {
-  text-align: center;
+#parallax1-1z H4 {
+  font-size: 36px;
 }
